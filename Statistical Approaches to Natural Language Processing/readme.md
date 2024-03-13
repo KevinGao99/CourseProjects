@@ -1,0 +1,1 @@
+Project Assignments for Statistical Approaches to NLP, including implementation for logistic regression, Neural Discourse Relation Classification using logistic regression and CNN (with or without dense embedding), POS tagging with RNN and implementation for Luong / Badanau attention.
